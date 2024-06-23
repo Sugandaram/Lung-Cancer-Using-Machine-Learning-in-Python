@@ -1,5 +1,8 @@
 # Lung-Cancer-Using-Machine-Learning-in-Python
 
+![Lung Cancer](https://github.com/Sugandaram/Lung-Cancer-Using-Machine-Learning-in-Python/assets/113656218/74386b75-596e-49c3-b4da-10fefcc5c91c)
+
+
 ### Overall Conclusion on Classification Models
 
     Based on the performance metrics for Logistic Regression, Support Vector Machine (SVM), Decision Tree, and XGBoost, we can draw the following conclusions about the effectiveness of these models on the given dataset:
